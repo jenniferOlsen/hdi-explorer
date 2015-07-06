@@ -1,0 +1,9 @@
+#Jekyll Configuration
+safe: true
+markdown: rdiscount
+permalink: pretty
+
+#Site
+name: Human Development Index Explorer
+baseurl: http://jenniferOlsen.github.io/hdi-explorer
+github: http://github.com/jenniferOlsen/hdi-explorer.git
